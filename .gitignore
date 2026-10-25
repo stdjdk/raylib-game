@@ -1,0 +1,16 @@
+# VS 编译产物
+x64/
+Debug/
+Release/
+.vs/
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.exe
+*.suo
+*.aps
+
+# 系统
+Thumbs.db
+.DS_Store
